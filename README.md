@@ -5,6 +5,7 @@
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 =====
+
 https://developer.hashicorp.com/terraform/install#linux
 
 sudo yum install -y yum-utils
